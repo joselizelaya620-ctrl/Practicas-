@@ -1,0 +1,10 @@
+div{
+    border: 5px solid #2E5FA3;
+    padding: 15px;
+    margin: 10px;
+}
+#header {background-color: rgb(202, 187, 216);}
+#nav {background-color: cornflowerblue;}
+#main {background-color: rgb(169, 211, 248);}
+#footer {background-color: rgb(232, 222, 176);}
+
